@@ -39,3 +39,4 @@ C:\Users\NCPW\Documents\Visual Studio 2008\Projects\UnicodeConverter\UnicodeConv
 C:\Users\NCPW\Documents\Visual Studio 2008\Projects\UnicodeConverter\UnicodeConverter\bin\Debug\Microsoft.Office.Interop.Excel.xml
 C:\Users\NCPW\Documents\Visual Studio 2008\Projects\UnicodeConverter\UnicodeConverter\bin\Debug\Microsoft.Office.Interop.Word.xml
 C:\Users\NCPW\Documents\Visual Studio 2008\Projects\UnicodeConverter\UnicodeConverter\bin\Debug\office.xml
+C:\Users\thetwinhtwe\Documents\Visual Studio 2015\Projects\UnicodeConverter\Unicode Converter\bak\UnicodeConverter_fontdetectioninwin-word\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache

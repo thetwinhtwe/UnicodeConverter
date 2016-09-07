@@ -346,3 +346,12 @@ F:\MMNLP_Team\Group\Technical Support Group (TS)\Program\Source Coding\Unicode C
 F:\MMNLP_Team\Group\Technical Support Group (TS)\Program\Source Coding\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
 F:\MMNLP_Team\Group\Technical Support Group (TS)\Program\Source Coding\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.exe
 F:\MMNLP_Team\Group\Technical Support Group (TS)\Program\Source Coding\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+C:\Users\thetwinhtwe\Documents\Visual Studio 2015\Projects\UnicodeConverter\Unicode Converter\UnicodeConverter\bin\Debug\UnicodeConverter.exe.config
+C:\Users\thetwinhtwe\Documents\Visual Studio 2015\Projects\UnicodeConverter\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+C:\Users\thetwinhtwe\Documents\Visual Studio 2015\Projects\UnicodeConverter\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.csprojResolveAssemblyReference.cache
+C:\Users\thetwinhtwe\Documents\Visual Studio 2015\Projects\UnicodeConverter\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+C:\Users\thetwinhtwe\Documents\Visual Studio 2015\Projects\UnicodeConverter\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+C:\Users\thetwinhtwe\Documents\Visual Studio 2015\Projects\UnicodeConverter\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+C:\Users\thetwinhtwe\Documents\Visual Studio 2015\Projects\UnicodeConverter\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.TestForm.resources
+C:\Users\thetwinhtwe\Documents\Visual Studio 2015\Projects\UnicodeConverter\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.TextBoxShow.resources
+C:\Users\thetwinhtwe\Documents\Visual Studio 2015\Projects\UnicodeConverter\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.GenerateResource.Cache

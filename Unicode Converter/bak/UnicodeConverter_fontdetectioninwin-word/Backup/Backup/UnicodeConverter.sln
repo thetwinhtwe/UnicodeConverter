@@ -1,8 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
-MinimumVisualStudioVersion = 10.0.40219.1
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnicodeConverter", "UnicodeConverter\UnicodeConverter.csproj", "{7D4749FB-EC80-4A52-937E-528432F6C04C}"
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "UnicodeConverterSetup", "UnicodeConverterSetup\UnicodeConverterSetup.vdproj", "{7B9B4987-8388-4DD4-B0B1-C4D5219B0789}"
