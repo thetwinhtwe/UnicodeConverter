@@ -1,0 +1,348 @@
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.dll
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.GenerateResource.Cache
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.pdb
+D:\Temp\Work\DataMigration\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+D:\Temp\Work\DataMigration\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+D:\Temp\Work\DataMigration\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.dll
+D:\Temp\Work\DataMigration\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.pdb
+D:\Temp\Work\DataMigration\UnicodeConverter\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+D:\Temp\Work\DataMigration\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+D:\Temp\Work\DataMigration\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+D:\Temp\Work\DataMigration\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+D:\Temp\Work\DataMigration\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+D:\Temp\Work\DataMigration\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.GenerateResource.Cache
+D:\Temp\Work\DataMigration\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+D:\Temp\Work\DataMigration\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+D:\Temp\Work\DataMigration\UnicodeConverter\UnicodeConverter\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+G:\Users\seagull\Desktop\Workplace\Data.Migration\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+G:\Users\seagull\Desktop\Workplace\Data.Migration\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+G:\Users\seagull\Desktop\Workplace\Data.Migration\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.dll
+G:\Users\seagull\Desktop\Workplace\Data.Migration\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.pdb
+G:\Users\seagull\Desktop\Workplace\Data.Migration\UnicodeConverter\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+G:\Users\seagull\Desktop\Workplace\Data.Migration\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+G:\Users\seagull\Desktop\Workplace\Data.Migration\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+G:\Users\seagull\Desktop\Workplace\Data.Migration\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+G:\Users\seagull\Desktop\Workplace\Data.Migration\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+G:\Users\seagull\Desktop\Workplace\Data.Migration\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.GenerateResource.Cache
+G:\Users\seagull\Desktop\Workplace\Data.Migration\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+G:\Users\seagull\Desktop\Workplace\Data.Migration\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+C:\Documents and Settings\NCS\Desktop\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+C:\Documents and Settings\NCS\Desktop\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+C:\Documents and Settings\NCS\Desktop\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+C:\Documents and Settings\NCS\Desktop\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+C:\Documents and Settings\NCS\Desktop\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+C:\Documents and Settings\NCS\Desktop\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+C:\Documents and Settings\NCS\Desktop\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NCS\Desktop\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+C:\Documents and Settings\NCS\Desktop\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+C:\Documents and Settings\NCS\Desktop\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+C:\Documents and Settings\NCS\Desktop\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.GenerateResource.Cache
+C:\Documents and Settings\NCS\Desktop\to test converter\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+C:\Documents and Settings\NCS\Desktop\to test converter\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+C:\Documents and Settings\NCS\Desktop\to test converter\UnicodeConverter\UnicodeConverter\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Documents and Settings\NCS\Desktop\to test converter\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.dll
+C:\Documents and Settings\NCS\Desktop\to test converter\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.pdb
+C:\Documents and Settings\NCS\Desktop\to test converter\UnicodeConverter\UnicodeConverter\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\Documents and Settings\NCS\Desktop\ncs\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+C:\Documents and Settings\NCS\Desktop\ncs\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+C:\Documents and Settings\NCS\Desktop\ncs\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+C:\Users\moh moh\Desktop\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+C:\Users\moh moh\Desktop\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+C:\Users\moh moh\Desktop\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+C:\Users\moh moh\Desktop\to test converter\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+C:\Users\moh moh\Desktop\to test converter\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+C:\Users\moh moh\Desktop\to test converter\UnicodeConverter\UnicodeConverter\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\moh moh\Desktop\to test converter\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.dll
+C:\Users\moh moh\Desktop\to test converter\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.pdb
+C:\Users\moh moh\Desktop\to test converter\UnicodeConverter\UnicodeConverter\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\Users\moh moh\Desktop\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\moh moh\Desktop\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+C:\Users\moh moh\Desktop\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+C:\Users\moh moh\Desktop\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+C:\Users\moh moh\Desktop\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.GenerateResource.Cache
+C:\Documents and Settings\NCS\Desktop\ncs\to test converter\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+C:\Documents and Settings\NCS\Desktop\ncs\to test converter\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+C:\Documents and Settings\NCS\Desktop\ncs\to test converter\UnicodeConverter\UnicodeConverter\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Documents and Settings\NCS\Desktop\ncs\to test converter\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.dll
+C:\Documents and Settings\NCS\Desktop\ncs\to test converter\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.pdb
+C:\Documents and Settings\NCS\Desktop\ncs\to test converter\UnicodeConverter\UnicodeConverter\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\Documents and Settings\NCS\Desktop\ncs\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NCS\Desktop\ncs\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+C:\Documents and Settings\NCS\Desktop\ncs\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+C:\Documents and Settings\NCS\Desktop\ncs\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+C:\Documents and Settings\NCS\Desktop\ncs\to test converter\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.GenerateResource.Cache
+C:\Documents and Settings\ag\Desktop\Academy Update\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+C:\Documents and Settings\ag\Desktop\Academy Update\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+C:\Documents and Settings\ag\Desktop\Academy Update\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+C:\Documents and Settings\ag\Desktop\Academy Update\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+C:\Documents and Settings\ag\Desktop\Academy Update\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+C:\Documents and Settings\ag\Desktop\Academy Update\UnicodeConverter\UnicodeConverter\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Documents and Settings\ag\Desktop\Academy Update\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.dll
+C:\Documents and Settings\ag\Desktop\Academy Update\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.pdb
+C:\Documents and Settings\ag\Desktop\Academy Update\UnicodeConverter\UnicodeConverter\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\Documents and Settings\ag\Desktop\Academy Update\UnicodeConverter\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ag\Desktop\Academy Update\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+C:\Documents and Settings\ag\Desktop\Academy Update\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+C:\Documents and Settings\ag\Desktop\Academy Update\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+C:\Documents and Settings\ag\Desktop\Academy Update\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.GenerateResource.Cache
+C:\Documents and Settings\ag\Desktop\Last\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+C:\Documents and Settings\ag\Desktop\Last\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+C:\Documents and Settings\ag\Desktop\Last\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.dll
+C:\Documents and Settings\ag\Desktop\Last\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.pdb
+C:\Documents and Settings\ag\Desktop\Last\UnicodeConverter\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ag\Desktop\Last\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+C:\Documents and Settings\ag\Desktop\Last\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+C:\Documents and Settings\ag\Desktop\Last\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+C:\Documents and Settings\ag\Desktop\Last\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+C:\Documents and Settings\ag\Desktop\Last\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.GenerateResource.Cache
+C:\Documents and Settings\ag\Desktop\Last\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+C:\Documents and Settings\ag\Desktop\Last\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+\\192.168.1.155\aung\Last\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+\\192.168.1.155\aung\Last\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+\\192.168.1.155\aung\Last\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+D:\ag\Last\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+D:\ag\Last\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+D:\ag\Last\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+C:\Documents and Settings\ag\Desktop\Last07\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+C:\Documents and Settings\ag\Desktop\Last07\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+C:\Documents and Settings\ag\Desktop\Last07\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+C:\Documents and Settings\ag\Desktop\Last07\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+C:\Documents and Settings\ag\Desktop\Last07\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+C:\Documents and Settings\ag\Desktop\Last07\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.dll
+C:\Documents and Settings\ag\Desktop\Last07\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.pdb
+C:\Documents and Settings\ag\Desktop\Last07\UnicodeConverter\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ag\Desktop\Last07\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+C:\Documents and Settings\ag\Desktop\Last07\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+C:\Documents and Settings\ag\Desktop\Last07\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+C:\Documents and Settings\ag\Desktop\Last07\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.GenerateResource.Cache
+C:\Documents and Settings\ag\Desktop\TestPinny5\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+C:\Documents and Settings\ag\Desktop\TestPinny5\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+C:\Documents and Settings\ag\Desktop\TestPinny5\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.pdb
+C:\Documents and Settings\ag\Desktop\TestPinny5\UnicodeConverter\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ag\Desktop\TestPinny5\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+C:\Documents and Settings\ag\Desktop\TestPinny5\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+C:\Documents and Settings\ag\Desktop\TestPinny5\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+C:\Documents and Settings\ag\Desktop\TestPinny5\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+C:\Documents and Settings\ag\Desktop\TestPinny5\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.GenerateResource.Cache
+C:\Documents and Settings\ag\Desktop\TestPinny5\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+C:\Documents and Settings\ag\Desktop\TestPinny5\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+C:\Documents and Settings\ag\Desktop\TestPinny5\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.dll
+C:\Documents and Settings\ag\Desktop\UnitoUni\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+C:\Documents and Settings\ag\Desktop\UnitoUni\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+C:\Documents and Settings\ag\Desktop\UnitoUni\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+C:\Documents and Settings\ag\Desktop\UnitoUni\UnicodeConverter\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ag\Desktop\UnitoUni\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+C:\Documents and Settings\ag\Desktop\UnitoUni\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+C:\Documents and Settings\ag\Desktop\UnitoUni\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+C:\Documents and Settings\ag\Desktop\UnitoUni\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.GenerateResource.Cache
+C:\Documents and Settings\ag\Desktop\UnitoUni\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+C:\Documents and Settings\ag\Desktop\UnitoUni\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\UnitoUni\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\UnitoUni\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\UnitoUni\UnicodeConverter\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\UnitoUni\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\UnitoUni\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\UnitoUni\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\UnitoUni\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\UnitoUni\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.GenerateResource.Cache
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\UnitoUni\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+C:\Documents and Settings\ag\Desktop\JustWork\UnicodeConverter\UnitoUni\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter\UnicodeConverter\bin\Debug\SlideForm.dll
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.TextBoxShow.resources
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.GenerateResource.Cache
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.TestForm.resources
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\SlideForm.dll
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.TestForm.resources
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.TextBoxShow.resources
+E:\Projects\VS2008\Projects\UnitoUni(AG07-Feb-2011)\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.GenerateResource.Cache
+E:\For NLP Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+E:\For NLP Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+E:\For NLP Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+E:\For NLP Work\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+E:\For NLP Work\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+E:\For NLP Work\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\SlideForm.dll
+E:\For NLP Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+E:\For NLP Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+E:\For NLP Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+E:\For NLP Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+E:\For NLP Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.TestForm.resources
+E:\For NLP Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.TextBoxShow.resources
+E:\For NLP Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\For NLP Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\ForNLP\For NLP Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+D:\ForNLP\For NLP Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+D:\ForNLP\For NLP Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\SlideForm.dll
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\office.dll
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\office.xml
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.TestForm.resources
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.TextBoxShow.resources
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Documents and Settings\MPT\Desktop\New Folder\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Users\hi akk\Desktop\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\hi akk\Desktop\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\hi akk\Desktop\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+C:\Users\hi akk\Desktop\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+C:\Users\hi akk\Desktop\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+C:\Users\hi akk\Desktop\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+C:\Users\hi akk\Desktop\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+C:\Users\hi akk\Desktop\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\SlideForm.dll
+C:\Users\hi akk\Desktop\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\hi akk\Desktop\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\hi akk\Desktop\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hi akk\Desktop\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+C:\Users\hi akk\Desktop\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+C:\Users\hi akk\Desktop\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+C:\Users\hi akk\Desktop\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.TestForm.resources
+C:\Users\hi akk\Desktop\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.TextBoxShow.resources
+C:\Users\hi akk\Desktop\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\hi akk\Desktop\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\hi akk\Desktop\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Users\hi akk\Desktop\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\For NLP Work\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\UnicodeConverter.exe.config
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\UnicodeConverter.exe.config
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\SlideForm.dll
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.TestForm.resources
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.TextBoxShow.resources
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\GenerateResource-ResGen.read.6.tlog
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\office.dll
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\My Work\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\office.xml
+D:\File Sharing\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\UnicodeConverter.exe.config
+D:\File Sharing\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\File Sharing\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+D:\File Sharing\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+D:\File Sharing\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+D:\Window Projects\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\UnicodeConverter.exe.config
+D:\Window Projects\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Window Projects\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+D:\Window Projects\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+D:\Window Projects\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+D:\Window Projects\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+D:\Window Projects\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+D:\Window Projects\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\SlideForm.dll
+D:\Window Projects\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\Window Projects\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+D:\Window Projects\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+D:\Window Projects\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+D:\Window Projects\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+D:\Window Projects\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.TestForm.resources
+D:\Window Projects\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.TextBoxShow.resources
+D:\Window Projects\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Window Projects\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\File Sharing\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\UnicodeConverter.exe.config
+E:\File Sharing\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+E:\File Sharing\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+E:\File Sharing\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+E:\File Sharing\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\File Sharing\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+E:\File Sharing\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+E:\File Sharing\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+E:\File Sharing\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+E:\File Sharing\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.TestForm.resources
+E:\File Sharing\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\UnicodeConverter.TextBoxShow.resources
+E:\File Sharing\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\File Sharing\UnicodeConverter(From KgKhant)\UnicodeConverter\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\File Sharing\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+E:\File Sharing\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+E:\File Sharing\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\SlideForm.dll
+E:\File Sharing\UnicodeConverter(From KgKhant)\UnicodeConverter\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\NLP Projects\Unicode Converter Applications\Unicode Converter\UnicodeConverter\bin\Debug\UnicodeConverter.exe.config
+D:\NLP Projects\Unicode Converter Applications\Unicode Converter\UnicodeConverter\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\NLP Projects\Unicode Converter Applications\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+D:\NLP Projects\Unicode Converter Applications\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+D:\NLP Projects\Unicode Converter Applications\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+D:\NLP Projects\Unicode Converter Applications\Unicode Converter\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+D:\NLP Projects\Unicode Converter Applications\Unicode Converter\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+D:\NLP Projects\Unicode Converter Applications\Unicode Converter\UnicodeConverter\bin\Debug\SlideForm.dll
+D:\NLP Projects\Unicode Converter Applications\Unicode Converter\UnicodeConverter\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\NLP Projects\Unicode Converter Applications\Unicode Converter\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+D:\NLP Projects\Unicode Converter Applications\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+D:\NLP Projects\Unicode Converter Applications\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+D:\NLP Projects\Unicode Converter Applications\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+D:\NLP Projects\Unicode Converter Applications\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.TestForm.resources
+D:\NLP Projects\Unicode Converter Applications\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.TextBoxShow.resources
+D:\NLP Projects\Unicode Converter Applications\Unicode Converter\UnicodeConverter\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\NLP Projects\Unicode Converter Applications\Unicode Converter\UnicodeConverter\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Natural Language Processing(NLP)\Unicode Converter\Unicode Converter\UnicodeConverter\bin\Debug\UnicodeConverter.exe.config
+E:\Natural Language Processing(NLP)\Unicode Converter\Unicode Converter\UnicodeConverter\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\Natural Language Processing(NLP)\Unicode Converter\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+E:\Natural Language Processing(NLP)\Unicode Converter\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+E:\Natural Language Processing(NLP)\Unicode Converter\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+E:\Natural Language Processing(NLP)\Unicode Converter\Unicode Converter\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+E:\Natural Language Processing(NLP)\Unicode Converter\Unicode Converter\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+E:\Natural Language Processing(NLP)\Unicode Converter\Unicode Converter\UnicodeConverter\bin\Debug\SlideForm.dll
+E:\Natural Language Processing(NLP)\Unicode Converter\Unicode Converter\UnicodeConverter\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\Natural Language Processing(NLP)\Unicode Converter\Unicode Converter\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+E:\Natural Language Processing(NLP)\Unicode Converter\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+E:\Natural Language Processing(NLP)\Unicode Converter\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+E:\Natural Language Processing(NLP)\Unicode Converter\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+E:\Natural Language Processing(NLP)\Unicode Converter\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.TestForm.resources
+E:\Natural Language Processing(NLP)\Unicode Converter\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.TextBoxShow.resources
+E:\Natural Language Processing(NLP)\Unicode Converter\Unicode Converter\UnicodeConverter\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Natural Language Processing(NLP)\Unicode Converter\Unicode Converter\UnicodeConverter\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\MMNLP_Team\Group\Technical Support Group (TS)\Program\Source Coding\Unicode Converter\UnicodeConverter\bin\Debug\UnicodeConverter.exe.config
+F:\MMNLP_Team\Group\Technical Support Group (TS)\Program\Source Coding\Unicode Converter\UnicodeConverter\obj\Debug\Interop.Microsoft.Office.Core.dll
+F:\MMNLP_Team\Group\Technical Support Group (TS)\Program\Source Coding\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+F:\MMNLP_Team\Group\Technical Support Group (TS)\Program\Source Coding\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+F:\MMNLP_Team\Group\Technical Support Group (TS)\Program\Source Coding\Unicode Converter\UnicodeConverter\obj\Debug\UnicodeConverter.pdb

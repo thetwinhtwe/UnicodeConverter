@@ -1,0 +1,41 @@
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.dll
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.GenerateResource.Cache
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+D:\Work\Researchex\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.pdb
+E:\KKhant\First Step\Font Migration & Detection\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+E:\KKhant\First Step\Font Migration & Detection\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+E:\KKhant\First Step\Font Migration & Detection\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+E:\KKhant\First Step\Font Migration & Detection\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+E:\KKhant\First Step\Font Migration & Detection\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+E:\KKhant\First Step\Font Migration & Detection\UnicodeConverter\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+E:\KKhant\First Step\Font Migration & Detection\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+E:\KKhant\First Step\Font Migration & Detection\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+E:\KKhant\First Step\Font Migration & Detection\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+E:\KKhant\First Step\Font Migration & Detection\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.GenerateResource.Cache
+E:\KKhant\First Step\Font Migration & Detection\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.dll
+C:\Users\NCPW\Documents\Visual Studio 2008\Projects\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.ResolveComReference.cache
+C:\Users\NCPW\Documents\Visual Studio 2008\Projects\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.exe
+C:\Users\NCPW\Documents\Visual Studio 2008\Projects\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.pdb
+C:\Users\NCPW\Documents\Visual Studio 2008\Projects\UnicodeConverter\UnicodeConverter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NCPW\Documents\Visual Studio 2008\Projects\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.AboutUniConverter.resources
+C:\Users\NCPW\Documents\Visual Studio 2008\Projects\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Form1.resources
+C:\Users\NCPW\Documents\Visual Studio 2008\Projects\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.Properties.Resources.resources
+C:\Users\NCPW\Documents\Visual Studio 2008\Projects\UnicodeConverter\UnicodeConverter\obj\Debug\UnicodeConverter.csproj.GenerateResource.Cache
+C:\Users\NCPW\Documents\Visual Studio 2008\Projects\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.exe
+C:\Users\NCPW\Documents\Visual Studio 2008\Projects\UnicodeConverter\UnicodeConverter\bin\Debug\UnicodeConverter.pdb
+C:\Users\NCPW\Documents\Visual Studio 2008\Projects\UnicodeConverter\UnicodeConverter\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\NCPW\Documents\Visual Studio 2008\Projects\UnicodeConverter\UnicodeConverter\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\NCPW\Documents\Visual Studio 2008\Projects\UnicodeConverter\UnicodeConverter\bin\Debug\UniConversion.dll
+C:\Users\NCPW\Documents\Visual Studio 2008\Projects\UnicodeConverter\UnicodeConverter\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\NCPW\Documents\Visual Studio 2008\Projects\UnicodeConverter\UnicodeConverter\bin\Debug\office.dll
+C:\Users\NCPW\Documents\Visual Studio 2008\Projects\UnicodeConverter\UnicodeConverter\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\NCPW\Documents\Visual Studio 2008\Projects\UnicodeConverter\UnicodeConverter\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\Users\NCPW\Documents\Visual Studio 2008\Projects\UnicodeConverter\UnicodeConverter\bin\Debug\office.xml

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <languageTable>
+    <English>File</English>
+    <Myanmar>ဖိုင်</Myanmar>  
+</languageTable>
+  <languageTable>
+    <English>Exit</English>
+    <Myanmar>ပိတ်ရန်</Myanmar>  
+</languageTable>
+  <languageTable>
+    <English>Help</English>
+    <Myanmar>အကူအညီ</Myanmar>
+  </languageTable>
+  <languageTable>
+    <English>About Unicode Converter</English>
+    <Myanmar>Unicode Converter အကြောင်း</Myanmar>  
+</languageTable>
+  <languageTable>
+    <English>User's Manual</English>
+    <Myanmar>အသုံးပြုနည်းလမ်းညွှန်</Myanmar>  
+</languageTable>
+  <languageTable>
+    <English>Convert Option</English>
+    <Myanmar>ပြောင်းလဲရန် ရွေးချယ်ခြင်း</Myanmar>
+  </languageTable>
+  <languageTable>
+    <English>Browse a File to be Converted!</English>
+    <Myanmar>ပြောင်းလိုသောဖိုင်ကို ဖွင့်ရန်</Myanmar>
+  </languageTable>
+  <languageTable>
+    <English>Browse</English>
+    <Myanmar>ဖွင့်ရန်</Myanmar>
+  </languageTable>
+  <languageTable>
+    <English>Converted Output File:</English>
+    <Myanmar>ပြောင်းပြီး ဖိုင်သိမ်းရန်</Myanmar>
+  </languageTable>
+  <languageTable>
+    <English>Save As</English>
+    <Myanmar>သိမ်းရန်</Myanmar>
+  </languageTable>
+  <languageTable>
+    <English>to Unicode 5.1</English>
+    <Myanmar>Unicode 5.1 သို့</Myanmar>
+  </languageTable>
+  <languageTable>
+    <English>Convert</English>
+    <Myanmar>ပြောင်းရန်</Myanmar>
+  </languageTable>
+  <languageTable>
+    <English>Close</English>
+    <Myanmar>ပိတ်ရန်</Myanmar>
+  </languageTable>
+  <languageTable>
+    <English>To Convert Text</English>
+    <Myanmar>ပြောင်းရန် စာကြောင်းများ ထည့်ရန်</Myanmar>
+  </languageTable>
+  <languageTable>
+    <English>Converted Text</English>
+    <Myanmar>ပြောင်းလဲပြီးစာကြောင်းများ</Myanmar>
+  </languageTable>
+  <languageTable>
+    <English>Clear</English>
+    <Myanmar>ရှင်းလင်းရန်</Myanmar>
+  </languageTable>
+  <languageTable>
+    <English>Convert</English>
+    <Myanmar>ပြောင်းရန်</Myanmar>
+  </languageTable>
+  <languageTable>
+    <English>Select Font Option</English>
+    <Myanmar>ပြောင်းလိုသော Font ရွေးချယ်ရန်</Myanmar>
+  </languageTable>
+  <languageTable>
+    <English>Change Language</English>
+    <Myanmar>ဘာသာပြောင်းရန်</Myanmar>
+  </languageTable>
+  
+</language>
